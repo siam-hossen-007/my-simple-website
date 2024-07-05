@@ -2,6 +2,7 @@ div{
     background-color: tomato;
     padding: 15px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 10px;
 }
 h3{
     color: rgb(254, 255, 255);
